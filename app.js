@@ -1,6 +1,4 @@
-import Swup from 'swup';
 
-const swup = new Swup;
 
 //functions
 function dropDown(){
